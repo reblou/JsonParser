@@ -1,0 +1,1 @@
+Project just for playing around with and learning go
